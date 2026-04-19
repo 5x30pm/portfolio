@@ -12,6 +12,7 @@
         <h1>5x30 PM Portfolio | Shivranjan Portfolio<h1>
         <h5>i love to teach:)</h5>
         <img src="https://avatars.githubusercontent.com/u/200050251" alt="Github logo" width="80px">
+        <h1><a href="https://5x30pm.github.io/portfolio/" alt="preview">Portfolio Preview</a></h1>
     </header>
     <hr>
     <!-- Education      -->
